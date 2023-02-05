@@ -16,7 +16,7 @@ def hexagon():
    vel_msg.angular.y=0
    vel_msg.angular.z=0
    theta=60*PI/180
-   angspeed=2*PI/180
+   angspeed=20*PI/180
    for i in range(0,6):
        current=0
        
